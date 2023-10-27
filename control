@@ -1,0 +1,9 @@
+Package: fyi.zxcvbn.esigntelemetryblocker
+Name: ESignTelemetryBlocker
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: stops esign from sending telemetry
+Author: zxcvbn
+Maintainer: zxcvbn
+Section: Tweaks
+Depends: firmware (>= 11.0)
